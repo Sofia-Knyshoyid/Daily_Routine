@@ -1,4 +1,4 @@
-# Lab_4
+# Daily_Routine
 The work describes the routine through the perspective of conditions and transitions between them.
 
 This program is a simulation of the regular day in life.
